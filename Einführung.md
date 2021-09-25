@@ -1,6 +1,20 @@
-# 1: Was ist Kali-Linux?
+# 1: Was ist Kali Linux?
 Kali Linux ist eine Linux-Distribution das sich nicht für den Alltag bestimmt ist, sondern für Penetrationtesting und digitale Forensik. Dabei umfasst Kali Linux viele verschiedene Tools, um Ethical Hacking zu betreiben. 
 
+**Beispiele:**
+--------------
+- **Nmap** für Netzwerkscans 
+- **Ettercap** um Netzwerk-Spoofing zu betreiben
+- **Lynis** um Vulnerability Scans durchzuführen 
+- **Aircrack-g** um die Sicherheit von WLAN-Netzwerken zu testen
+- **Wireshark** um Netzwerktraffic zu sniffen
+- **slqmap** um automatisierte SQL-Injections auszuführen
 
+Wie nutze ich Kali-Linux?
+Kali Linux kann von der offiziellen Website heruntergeladen werden und kommt direkt mit allen Tools. Kali Linux kann sowohl Bare-Metal als auch in einer VM genutzt werden. 
+
+**Download**
+--------------
+https://www.kali.org/get-kali/
 
 # 2: Was ist Metasploit? 
