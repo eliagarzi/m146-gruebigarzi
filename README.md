@@ -3,7 +3,7 @@
 Im Bezug auf die Anbindung eines Unternehmens an das Internet haben wir verschiedene Leitfragen bearbeitet. 
 
 
-### **1. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md">Übertragungsrate, Verfügbarkeit</a>**
+### **1. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md" target="_blank">Übertragungsrate, Verfügbarkeit</a>**
 
 ### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/2%20WAN-Technologie/readme.md">WAN-Technologie</a>**
 
