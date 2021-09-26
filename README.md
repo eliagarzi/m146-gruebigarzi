@@ -9,4 +9,4 @@ Für unser Vertiefungsthema haben wir eine Virtuelle Maschine Exploitet und uns 
 https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/ISO.md
 
 **Exploits**
-https://github.com/eliagarzi/m146-gruebigarzi/blob/main/METASPLOIT.md
+https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Exploit.md
