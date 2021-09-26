@@ -31,9 +31,11 @@ Im Bezug auf die Anbindung eines Unternehmens an das Internet haben wir verschie
 
 Für unser Vertiefungsthema haben wir eine Virtuelle Maschine Exploitet und uns Gedanken darüber gemacht, wie sich ein Unternehmen im WAN schützen kann. 
 
-### **<a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/ISO.md">ISO-Standards</a>**
+### **1. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Einf%C3%BChrung.md">Exploiten Einführung</a>**
 
-### **<a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Exploit.md">Exploits</a>**
+### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Exploit.md">Eigene Exploits machen</a>**
+
+### **3. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/ISO.md">ISO-Standards</a>**
 
 
 
