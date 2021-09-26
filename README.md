@@ -3,19 +3,19 @@
 Im Bezug auf die Anbindung eines Unternehmens an das Internet haben wir verschiedene Leitfragen bearbeitet. 
 
 
-### **1. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md">Übertragungsrate, Verfügbarkeit</a>**
+### **1. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md">Übertragungsrate, Verfügbarkeit</a>**
 
-### **2. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/2%20WAN-Technologie/readme.md">WAN-Technologie</a>**
+### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/2%20WAN-Technologie/readme.md">WAN-Technologie</a>**
 
-### **3. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/3%20Internetservices/readme.md">Internetservices</a>**
+### **3. <a  target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/3%20Internetservices/readme.md">Internetservices</a>**
 
-### **4. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/4.%20Sicherheit/readme.md">Sicherheit</a>**
+### **4. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/4.%20Sicherheit/readme.md">Sicherheit</a>**
 
-### **5. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/5%20Wartung%20-%20%C3%9Cberwachung/readme.md">Wartung / Überwachung</a>**
+### **5. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/5%20Wartung%20-%20%C3%9Cberwachung/readme.md">Wartung / Überwachung</a>**
 
-### **6. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/6%20Firewall/readme.md">Firewall</a>**
+### **6. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/6%20Firewall/readme.md">Firewall</a>**
 
-### **7. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/7%20VPN/readme.md">VPN</a>**
+### **7. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/7%20VPN/readme.md">VPN</a>**
 
 
 
