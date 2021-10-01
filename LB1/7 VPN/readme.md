@@ -29,10 +29,17 @@ Vergleichskriterien
 
 ## **Typische Fälle**
 
+Anschliessend habe ich mir Gedanken über "Typische Fälle" bei VPN-Verbindungen gemacht. 
+
+
 **VPN für die Verbindung mehrerer Standorte**
 Beispielsweise die Verbindung zwischen einer Cloud wie Azure und dem On-Premise Netzwerk oder eine Verbindung mehrerer kleiner Standorte. 
 
-Site-To-Site
+Wichtig für diesen Fall:
+- Site-To-Site VPN 
+- Hoher Durchsatz
+
+Für solch eine Verbindung braucht es eine Site-To-Site VPN. Man braucht dafür zwei Endpunkte, welche eine Site-To-Site VPN zulassen. Z.B. einen Azure VPN Gateway mit einer physischen Firewall. 
 
 
 
@@ -51,4 +58,8 @@ Ein Systemadministrator oder ein Benutzer braucht eine Sichere Verbindung zum Fi
 
 Begriffserklärung
 
-- **Site-To-Site**: Site-To-Site bedeutet im Bezug auf VPNs, dass zwei damit zwei Netzwer
+- **Site-To-Site**: Site-To-Site bedeutet im Bezug auf VPNs, dass damit zwei Netzwerke verbunden werden können. So kann ein externes Rechenzentrum oder ein externer Standort mit dem Firmennetzwerk verbunden werden. Die wird über den Router/die Firewall realisiert. 
+
+- **Point-To-Site / Client-To-Site**: Bei einer Client-To-Site VPN wird nur ein Client mit dem VPN-Netzwerk verbunden. Hierfür wird ein VPN-Client auf Z.B. Windows installiert. 
+
+- **VPN-Peers**: Ein VPN-Peer ist ein "Client". Die maximale Anzahl Peers bestimmt also, wieviele  Clients gleichzeitig mit dem VPN verbunden sein können. 
