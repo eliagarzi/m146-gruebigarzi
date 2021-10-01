@@ -6,6 +6,22 @@ Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate 
 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 
-## Wie unterscheiden sich diese WAN-Technologien zueinander?
-## Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit? 
-## Welche Verbindung eignet sich auch für Backup-Leitungen?
+## **Aufgabe**
+
+Vergleichen Sie verschiedene WAN-Technologien:
+xDSL
+Fibre (FTTH)
+Cable
+Radiolink
+Satellit
+
+Wie unterscheiden sich diese WAN-Technologien zueinander?
+Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnvolle Empfehlung abgeben, wann welche Technologie für unsere Situation vorteilhaft wäre.
+
+Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?
+Welche Verbindung eignet sich auch für Backup-Leitungen?
+
+Kosten
+- Geschwindigkeit
+- Kosten
+- Verfügbarkeit
