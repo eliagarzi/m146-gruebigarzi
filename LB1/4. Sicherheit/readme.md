@@ -97,7 +97,7 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 **Backup Server**
 - Der Backupserver ist ein physischer Server auf Basis von Windows Server und nutzt Veeam Backup & Replication um die gesamt vSphere Umgebung zu Backupen
 
-## **Weitere technische Massnahmen**
+## **3 Weitere technische Massnahmen**
 Verschlüsselung: 
 - Jeglicher Speicher ist verschlüsselt, 
 - Netzwerktraffic verschlüsselt (WPA, HTTPS, SFTP)
