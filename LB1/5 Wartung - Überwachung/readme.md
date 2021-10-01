@@ -13,3 +13,5 @@ Beschreiben Sie konkret, mit welchen Tools Sie das machen würden. Es wird erwar
 
 Wie würden Sie die Wartung des Zuganges sicherstellen?
 Beschreiben Sie einen Wartungsprozess und machen Sie der Firma eine Empfehlung. Ihre Empfehlung muss auf Grund einer Evaluation mit Kriterien erfolgen.
+
+

@@ -26,10 +26,12 @@ Vergleichskriterien
 - Ports
 - Bauform
 
+## **1 Vergleichskriterien**
 
-## **Typische Fälle**
 
-Anschliessend habe ich mir Gedanken über "Typische Fälle" bei VPN-Verbindungen gemacht. 
+## **2 Typische Fälle**
+
+Nachdem ich mir die wichtigsten Vergeleichskriterien angeschaut habe, habe ich mir Gedanken über "Typische Fälle" bei VPN-Verbindungen gemacht. 
 
 
 **VPN für die Verbindung mehrerer Standorte**
@@ -38,6 +40,7 @@ Beispielsweise die Verbindung zwischen einer Cloud wie Azure und dem On-Premise 
 Wichtig für diesen Fall:
 - Site-To-Site VPN 
 - Hoher Durchsatz
+- Grosse Filterfunktionien sind hier nicht wichitg, da der Internet
 
 Für solch eine Verbindung braucht es eine Site-To-Site VPN. Man braucht dafür zwei Endpunkte, welche eine Site-To-Site VPN zulassen. Z.B. einen Azure VPN Gateway mit einer physischen Firewall. 
 
@@ -53,7 +56,7 @@ Point-To-Site und Public VPN-Provider / eigenen VPN-Server
 **VPN für die Verbindung in ein bestimmtes Netzwerk über eine gesicherte Verbindung** 
 Ein Systemadministrator oder ein Benutzer braucht eine Sichere Verbindung zum Firmennetzwerk, um dieses auch von überall aus zu erreichen. 
 
-**Hier braucht es eine Point-To-Site VPN mit privatem VPN-Server**. Beispielweise IPsec oder Wireguard. 
+Hier braucht es eine Point-To-Site VPN. Beispielweise IPsec oder Wireguard. Ein User kann anschliessend mit 
 
 
 Begriffserklärung

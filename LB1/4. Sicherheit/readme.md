@@ -27,13 +27,13 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 
 # **2 Nicht technische Massnahmen**
 
-# **1 Einführung eines ISMS** 
+# **3 Einführung eines ISMS** 
 
 
 
 # **3 Technische Massnahmen** 
 
-## **Übersicht über die technischen Massnahmen
+## **Übersicht über die technischen Massnahmen** 
 - Firewall mit Proxyfunktion 
 - Netzwerksegmentierung 
 - Doppelte Internetanbindung 
@@ -46,11 +46,9 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 - Wir nutzen pro Internetanschluss eine Firewall 
 - Diese Firewalls filtern HTTPS Traffic per Proxy
 
-
 **Redundanter Core-Switch**
 - Der Core-Switch ist sehr wichtig im Netzwerk
 Verfügbarkeit:
-
 
 **Netzwerksegmentierung** 
 - Wir nutzen VLANs, welche auf dem Core-Switch geroutet werden können
@@ -64,8 +62,6 @@ Integrität: Es ist schwieriger den Netzwerktraffic zu manipulieren
 - Das Guest läuft auf einem anderen VLAN 
 - Beide WLANs haben nur Zugriff zum Internet und nicht zu internen Ressourcen
 - Dadurch sind die beiden Netzwerke getrennt 
-
-
 
 ## **2 Aufbau der Server-Infrastruktur**
 Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am besten aufbaut
@@ -105,3 +101,5 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 Verschlüsselung: 
 - Jeglicher Speicher ist verschlüsselt, 
 - Netzwerktraffic verschlüsselt (WPA, HTTPS, SFTP)
+
+
