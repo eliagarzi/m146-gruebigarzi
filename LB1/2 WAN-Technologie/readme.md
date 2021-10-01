@@ -21,7 +21,8 @@ Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnv
 Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?
 Welche Verbindung eignet sich auch für Backup-Leitungen?
 
-Kosten
+- Kosten
 - Geschwindigkeit
 - Kosten
 - Verfügbarkeit
+- Verbindungsart (Kabel/Wireless)
