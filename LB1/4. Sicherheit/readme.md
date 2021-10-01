@@ -7,6 +7,7 @@ Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 
 
+**Aufgabe**
 Die Firma entscheidet sich, dass die Server alle inhouse stehen sollen.
 
 Welche Anforderungen an die Sicherheit gemäss ISO 27000 sind zu beachten?
@@ -14,8 +15,10 @@ Bitte stellen Sie der Klasse ein sinnvolles Sicherheitskonzept für diesen Anwen
 
 Beachten Sie, dass es technische und nicht technische Massnahmen geben kann.
 
-# **1 Ein ISO 27000 Konzept** 
 
+
+# **1 Ein ISO 27000 Konzept** 
+ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardisieren. 
 
 **Grundlegende Anforderungen**
 - Verfügbarkeit 
@@ -23,6 +26,9 @@ Beachten Sie, dass es technische und nicht technische Massnahmen geben kann.
 - Authentizität
 
 # **2 Nicht technische Massnahmen**
+
+# **1 Einführung eines ISMS** 
+
 
 
 # **3 Technische Massnahmen** 
@@ -33,8 +39,6 @@ Beachten Sie, dass es technische und nicht technische Massnahmen geben kann.
 - Doppelte Internetanbindung 
 - Verschlüsselung wo es geht
 - Sinnvoller Aufbau der Server
-
-
 
 ## **1 Aufbau des Netzwerkes**
 
