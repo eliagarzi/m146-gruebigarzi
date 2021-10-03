@@ -22,7 +22,7 @@ Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?
 Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 - Kosten
-- Geschwindigkeit
+- Geschwindigkeit:
  Metro Ethernet ist eine Lösung um das Datacenter zu erreichen. Die ist ein Virtual Circuits, welche vom Provider gehostet wird. Das heisst es ist ein ^Privates Netzwerk ur für diese Firma. Der Trafic läuft über eine Private leitung und ist komplet abgetrennt von anderem Datenverkehr. Diese lösug wäre sehr sicher und schnell. Der einzige Nachteil, eds ist sehr teuer. 
 
 - Kosten
