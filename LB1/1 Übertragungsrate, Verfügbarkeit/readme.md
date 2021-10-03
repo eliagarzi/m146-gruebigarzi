@@ -11,3 +11,8 @@ Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostr
 
 
 ## Welcher Verfügbarkeit müsste Ihre Anbindung ans Internet haben?
+Ausfall von 10 Stunden: Wenn ein Ausfall von 10h tolerier bar wäre weisst das darauf hin, dass die online Anwendung entweder am Wochenende noicht benutzt wird. Ein anderer grund könnet sein, es ist keine Bussines kritische Applikation und wird von niemandem so häufig genutzt. z.B. kleine Privater Mailserver
+
+Ausfall von 4 Stunden:
+
+## Geeigneter Provider:
