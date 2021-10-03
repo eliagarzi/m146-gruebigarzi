@@ -21,6 +21,8 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 
 ### **Vergleich verschiedener Firewall-Lösungen**
 
+![grafik](https://user-images.githubusercontent.com/62818267/135764327-db83e5b3-5ba0-44d6-b573-50f37db269c5.png)
+
 
 ### **Kriterien**
 Ich finde sehr viele Kriterien, welche wichtig sind. Firewalls werden für die unterschiedlichsten Zwecke eingesetzt und somit gibt es auch für viele verschiedene Lösungen. 
