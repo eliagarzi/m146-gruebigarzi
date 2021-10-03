@@ -21,6 +21,27 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 
 ### **Vergleich verschiedener Firewall-Lösungen**
 
+Ich habe mir vier völlig verschiedene Firewall-Lösungen angeschaut. 
+
+**Opnsense**
+
+Opnsense ist eine Open-Source Firewall, die ebenfalls Routing Funktionen unterstützt. Opnsense ist kostenlos, nur der Support kostet. 
+
+**Azure Firewall**
+
+Die Azure Firewall ist ein "Firewall-as-a-Service" von Microsoft. Diese Firewall läuft nur auf der Azure Cloud. 
+Azure Firewall wird dazu gebraucht um Azure Netzwerkressourcen zu schützen. 
+
+
+**Fortigate 80F**
+
+Die Foritgate 80F ist einer der kostengünstigsten Fortigate Firewalls. Sie richtet sich an KMU, welche volle Kontrolle über ihre Firewall haben möchten. 
+
+
+**Managed Security von Swisscom**
+Managed Security von Swisscom ist eine "Firewall-as-a-Service". Managed Security ist cloud-basiert und richtet sich in erster Linie an KMU mit kleinem Budget. 
+
+
 ![grafik](https://user-images.githubusercontent.com/62818267/135764327-db83e5b3-5ba0-44d6-b573-50f37db269c5.png)
 
 
