@@ -39,48 +39,57 @@ Die Foritgate 80F ist einer der kostengünstigsten Fortigate Firewalls. Sie rich
 
 
 **Managed Security von Swisscom**
+
 Managed Security von Swisscom ist eine "Firewall-as-a-Service". Managed Security ist cloud-basiert und richtet sich in erster Linie an KMU mit kleinem Budget. 
 
+In der nachstehenden Grafik habe ich mir die verschiedenen Firewall-Lösungen von oben angeschaut und dabei festgehalten, welche Kriterien wichtig sind. 
 
 ![grafik](https://user-images.githubusercontent.com/62818267/135764327-db83e5b3-5ba0-44d6-b573-50f37db269c5.png)
 
 
 ### **Kriterien**
-Ich finde sehr viele Kriterien, welche wichtig sind. Firewalls werden für die unterschiedlichsten Zwecke eingesetzt und somit gibt es auch für viele verschiedene Lösungen. 
+Aus der Grafik von oben habe ich folgende Kriterien mitgenommen. Ich fand eine sehr schwierige Aufgabe, da es so viele verschiedene Firewalls gibt und diese auch an den verschiedensten Orten zu verschiedensten Zwecken eingesetzt werden. Ich habe dennoch bestmöglichst versucht, sinnvolle Kriterien herauszufiltern. 
 
 - Form
-- Kosten
+- Standort
+- Einsatzbereich
+- Anschaffungskosten
+- Laufende Kosten
+- Support 
 - VPN
-- VPN Durchsatz
-- Pakete pro Sekunde
-- Gleichzeitige Verbindungen
-- Durchsatz
-- IPS-Durchsatz
-- SSL-Inspection Durchsatz
-
+- VPN Durchsatz (Gbit Max)
+- Durchsatz (Gbit Max)
+- Antivirus
+ 
 
 ## **2 Typische Fälle**
 Nun habe ich verschiedene "Typische Fälle" angeschaut und dafür eine mögliche Lösung angeschaut.
 
 ### **Heimnetzwerk**
-Gesuchte Firewall
-- Unkompliziert 
+Im Heimnetzwerk braucht es ebenfalls eine Firewall. Hier ist die Firewall oftmals bereits im Router vom Provider verbaut. 
 
+Im Heimnetzwerk ist es vorallem wichtig, dass die Firewall möglichst autonom arbeiten kann und ohne Wartung auskommt, da sich ein Heimnetzrouter an alle Leute richten und somit auch an Leute, die keine IT-Kentnisse haben. 
+
+Ebenfalls ist es wichtig, dass die Anschaffungskosten möglichst gerring sind, da die meisten nicht so viel für eine Firewall für Zuhause zahlen möchten. 
+
+Wichtig:
+- Autonom
 
 ### **Firmennetzwerk**
-Ein Firmennetzwerk bedeutet für mich 
+In einem Firmennetzwerk braucht man bereits deutlich mehr. Hier braucht es eine grosse Firewall mit grossem Durchsatz, guten Filterfunkionen und guter Zuverlässigkeit. 
+
 
 
 Gesuchte Firewall
 - Unkompliziert 
-- Durchsatz von bis zu 1 Gbit/s
+- System das High Availability unterstützt. 
 
-### **Kleiner Bürostandort ohne On-Premise Serverinfrastruktur**
-
+### **Kleiner Standort ohne On-Premise Serverinfrastruktur**
+Hier kommt es darauf an, wo der Internet-Breakout im Firmennetzwerk ist. 
 
 
 ### **Distaster Recovery Site**
-Oftmals ist für eine DR-Site gar keine Firewall nötig, da diese z.B. per direktem Leased-Line Glasfaserkabel oder Express Route (Wie man es bei Azure nennt) angeschlossen ist. 
+Oftmals ist für eine DR-Site gar keine Firewall nötig, da diese z.B. per direktem Leased-Line Glasfaserkabel oder Express Route angeschlossen ist. 
 
 
 
