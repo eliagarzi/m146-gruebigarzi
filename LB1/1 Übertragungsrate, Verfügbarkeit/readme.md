@@ -24,8 +24,8 @@ Um die gewährleistund der Anforderungen zu erfüllen ist nicht nur die Kostenfr
 Im vergleich stehen: UPC, Swisscom, Salt, iWay, Ornage, Yallo
 
 Preislicher Gewinner ist iWay, davon abgesehen hatten Konkuenten nicht mal 1000 Mbit/s im Sortiment was zur sofotigen Ausscheidung führte.
--Preis
--Angebot 1000 Mbit/s
--Kundenservice
--Individuel
--1 Monat gratis
+- Preis
+- Angebot 1000 Mbit/s
+- Kundenservice
+- Individuel
+- 1 Monat gratis
