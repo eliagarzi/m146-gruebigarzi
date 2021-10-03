@@ -7,7 +7,7 @@ Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 
 ## Welche Übertragungsrate wäre für diese Anwendungen geeignet?
-Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s.
+Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s. Wenn 90 Mitarbeiter im Unternehmen tätig sind heisst das man braucht mindestens 1000 Mbit/s
 
 
 ## Welcher Verfügbarkeit müsste Ihre Anbindung ans Internet haben?
