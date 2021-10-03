@@ -22,7 +22,6 @@ z.B. Google, Netflix, Server der SIX (Zahlungsverkehr)
 Um die gewährleistund der Anforderungen zu erfüllen ist nicht nur die Kostenfrage entscheidend sondern auch die Grösse des Providers, zu kleine Provider könnten die Anforderungen an Availability und Support garnicht erfüllen.
 
 Im vergleich stehen: UPC, Swisscom, Salt, iWay, Ornage, Yallo
-
 Preislicher Gewinner ist iWay, davon abgesehen hatten Konkuenten nicht mal 1000 Mbit/s im Sortiment was zur sofotigen Ausscheidung führte.
 - Preis
 - Angebot 1000 Mbit/s
