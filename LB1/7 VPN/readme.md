@@ -20,7 +20,14 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 Diskutieren Sie einige „typische Fälle“ und vergleichen Sie. 
 
 
-## **1 Vergleichskriterien**
+## **1 Vergleichs**
+
+### **Vergleich verschiedener VPN-Lösungen**
+
+![grafik](https://user-images.githubusercontent.com/62818267/135760829-9faebc6e-3e36-4ba0-9556-78431d75e56f.png)
+
+
+### **Kriterien**
 Form
 - Welche Form hat der VPN-Server,Hardware-Appliance oder Software?
 
@@ -48,7 +55,6 @@ Management
 - Wie wird der VPN gemanaged? 
 
 
-![grafik](https://user-images.githubusercontent.com/62818267/135760829-9faebc6e-3e36-4ba0-9556-78431d75e56f.png)
 
 
 ## **2 Typische Fälle**
