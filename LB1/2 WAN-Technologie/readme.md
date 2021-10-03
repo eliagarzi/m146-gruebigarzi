@@ -15,7 +15,7 @@ Cable,
 Radiolink,
 Satellit
 
-Wie unterscheiden sich diese WAN-Technologien zueinander?
+**Wie unterscheiden sich diese WAN-Technologien zueinander?**
 Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnvolle Empfehlung abgeben, wann welche Technologie für unsere Situation vorteilhaft wäre.
 
 Am Sinnvollstn wäre satelit da es auch am ausfallsichersten ist. Die technologie ist schnell und man hat nur am anfang anschafungskosten für die Satelietenschüssel. Danach nur noch das Internetabonoment. Der grosse Vorteil, es kann kein Kabel durch eine Baustelle ausversehen gekappt werden, oder durch andere Radio Signale gestört werxen.
