@@ -19,47 +19,60 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 
 Diskutieren Sie einige „typische Fälle“ und vergleichen Sie. 
 
-Vergleichskriterien
+
+## **1 Vergleichskriterien**
 - Kosten
 - Durchsatz
 - IPS-Durchsatz
-- Ports
 - Bauform
-
-## **1 Vergleichskriterien**
 
 
 ## **2 Typische Fälle**
 
-Nachdem ich mir die wichtigsten Vergeleichskriterien angeschaut habe, habe ich mir Gedanken über "Typische Fälle" bei VPN-Verbindungen gemacht. 
+Nachdem ich mir Gedanken über Vergeleichskriterien angeschaut habe, habe ich diese auf "Typische Fälle" bei VPN-Verbindungen angewendet und geschaut, was wo wie wichtig ist. 
 
 
-**VPN für die Verbindung mehrerer Standorte**
-Beispielsweise die Verbindung zwischen einer Cloud wie Azure und dem On-Premise Netzwerk oder eine Verbindung mehrerer kleiner Standorte. 
+### **VPN für die Verbindung mehrerer Standorte**
 
-Wichtig für diesen Fall:
+Beispielsweise die Verbindung zwischen einer Cloud wie Azure und dem On-Premise Netzwerk oder eine Verbindung mehrerer Standorte mit dem Firmennetzwerk.  
+
+Für solch eine Verbindung braucht es eine Site-To-Site VPN. Man braucht dafür zwei Endpunkte, welche eine Site-To-Site VPN zulassen. Das kann eine Firewall auf jeder Seite sein, mit welcher ein IPsec Site-To-Site VPN aufgebaut wird. 
+
+Ebenfalls wichtig ist meist ein hoher Durchsatz, da normalerweise der gesamte Netzwerktraffic über den VPN-Tunnel läuft und es im Netzwerk nur einen Internet-Breakout gibt. Durch dieses Netzwerk läuft also alles von VOIP, zu internem Traffic zu Internet-Browsen. 
+
+Da durch den VPN-Tunnel alle Daten laufen ist eine gute Ausfallsicherheit sehr wichtig. Am besten ist hier also ein Produkt, welches auf genau solch eine Aufgabe zugeschnitten ist. 
+
+Zusammenfassung:
 - Site-To-Site VPN 
 - Hoher Durchsatz
-- Grosse Filterfunktionien sind hier nicht wichitg, da der Internet
-
-Für solch eine Verbindung braucht es eine Site-To-Site VPN. Man braucht dafür zwei Endpunkte, welche eine Site-To-Site VPN zulassen. Z.B. einen Azure VPN Gateway mit einer physischen Firewall. 
+- Gute Ausfallsicherheit
 
 
 
-**VPN für das Umgehen von Geo-Blocking oder das täuschen der eigenen IP-Adresse**
-Um Dienste aus anderen Ländern zu nutzen oder aus anderen Gründen
+### **VPN für das Umgehen von Geo-Blocking oder das täuschen der eigenen IP-Adresse**
+Um Dienste aus anderen Ländern zu nutzen oder aus Gründen der Privatsphäre. 
 
-Point-To-Site und Public VPN-Provider / eigenen VPN-Server 
+In diesem Fall braucht es ebenfalls eine Point-To-Site VPN-Verbindung. Für das Umgehen von Geo-Blocking ist ein public-VPN-Provider wie NordVPN oder ProtoonVPN am einfachsten, da diese viele VPN-Server rund im die Welt haben. 
 
+Ebenfalls ist eine einfache Bedienbarkeit des VPN-Clients wichtig, da diese von Usern genutzt wird. 
 
+Zusammenfassung:
+- Point-To-Site VPN 
+- Einfache bedienbarkeit
 
-**VPN für die Verbindung in ein bestimmtes Netzwerk über eine gesicherte Verbindung** 
+### **VPN für die Verbindung in ein bestimmtes Netzwerk über eine gesicherte Verbindung** 
 Ein Systemadministrator oder ein Benutzer braucht eine Sichere Verbindung zum Firmennetzwerk, um dieses auch von überall aus zu erreichen. 
 
-Hier braucht es eine Point-To-Site VPN. Beispielweise IPsec oder Wireguard. Ein User kann anschliessend mit 
+Hier braucht es eine Point-To-Site VPN. Es gibt also einen Client der sich mit einem Netzwerk über einen gesicherten Tunnel verbindet. Auf dem Client installiert man eine VPN-Client-Software. 
+
+Ebenfalls ist eine einfache Bedienbarkeit des VPN-Clients wichtig, da diese von Usern genutzt wird. 
+
+Zusammenfassung:
+- Point-To-Site VPN 
+- Einfache bedienbarkeit
 
 
-Begriffserklärung
+## **3 Begriffserklärung**
 
 - **Site-To-Site**: Site-To-Site bedeutet im Bezug auf VPNs, dass damit zwei Netzwerke verbunden werden können. So kann ein externes Rechenzentrum oder ein externer Standort mit dem Firmennetzwerk verbunden werden. Die wird über den Router/die Firewall realisiert. 
 
