@@ -10,4 +10,4 @@ Verglcih:
 
 - eigene Server „inhouse“ 
 - dedizierte Server (Root-Server) bei Provider 
-• Services beim Provider (Shared hosting)
+- Services beim Provider (Shared hosting)
