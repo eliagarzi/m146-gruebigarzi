@@ -48,6 +48,9 @@ Management
 - Wie wird der VPN gemanaged? 
 
 
+![grafik](https://user-images.githubusercontent.com/62818267/135760829-9faebc6e-3e36-4ba0-9556-78431d75e56f.png)
+
+
 ## **2 Typische Fälle**
 
 Nachdem ich mir Gedanken über Vergeleichskriterien angeschaut habe, habe ich diese auf "Typische Fälle" bei VPN-Verbindungen angewendet und geschaut, was wo wie wichtig ist. 
