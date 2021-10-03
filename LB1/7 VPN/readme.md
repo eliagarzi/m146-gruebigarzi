@@ -21,33 +21,31 @@ Diskutieren Sie einige „typische Fälle“ und vergleichen Sie.
 
 
 ## **1 Vergleichskriterien**
-- Form
+Form
+- Welche Form hat der VPN-Server,Hardware-Appliance oder Software?
 
-Welche Form hat der VPN-Server,Hardware-Appliance oder Software?
+Kosten 
 
-- Kosten 
+- Wie hoch sind die Kosten? 
 
-Wie hoch sind die Kosten? 
+Durchsatz
+- Wie hoch ist der VPN-Tunnel Durchsatz?
 
-- Max. Durchsatz
+VPN-Typen 
 
-Wie hoch ist der VPN-Tunnel Durchsatz?
+- Welche Formen von VPN-Typen werden unterstützt? Site-To-Site, Client-To-Site
 
-- VPN-Typen 
+Max. Anzahl Peers
 
-Welche Formen von VPN-Typen werden unterstützt? Site-To-Site, Client-To-Site
+- Wie viele Peers (Anzahl Clients) können sich mit dem VPN verbinden?
 
-- Max. Anzahl Peers
+VPN-Client
 
-Wie viele Peers (Anzahl Clients) können sich mit dem VPN verbinden?
+- Gibt es einen VPN-Client und wie einfach ist dieser zu bedienen?
 
-- VPN-Client
+Management
 
-Gibt es einen VPN-Client und wie einfach ist dieser zu bedienen?
-
-- Management
-
-Wie wird der VPN gemanaged? 
+- Wie wird der VPN gemanaged? 
 
 
 ## **2 Typische Fälle**
