@@ -19,7 +19,6 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 Ich finde sehr viele Kriterien, welche wichtig sind. Firewalls werden für die unterschiedlichsten Zwecke eingesetzt und somit gibt es auch für viele verschiedene Lösungen. 
 
 - Form
-- Standort
 - Kosten
 - VPN
 - VPN Durchsatz
