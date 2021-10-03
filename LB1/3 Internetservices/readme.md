@@ -6,7 +6,7 @@ Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate 
 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 
-Vergleich:
+Der Vergleich:
 
 - **eigene Server „inhouse“** <br>
 Den Server Inhouse zu hosten hat den Vorteil das es Günstiger ist, man Muss keinen Host Monatlich bezahlen, es ist individueller und mn kann alles selbst entscheiden. Jedoch hat man hohe Anschafungskossten für die Hardware und Kosten für die Techniker welche die Server warten. Die verbindung zum server ist schneller da der Host nicht edliche 1000 Kilometer entfernt ist. Man kann selbst Ausfällen mit eigenen Masnahmen vorbeugen.
@@ -20,6 +20,8 @@ Shared hosting ist die Günstigste der drei alternativen, da man sich die Kosten
 Nehmen Sie dafür für 2 Fälle einige Eckdaten an (z.B. Speicherplatz, Traffic, Dienste, …) Erstens eine einfache Webpräsenz zu Werbezwecken und Mail, zweitens eine komplexe Datenbankanwendung mit PHP für den Kundenzugriff.
 
 **Welche Vergleichskriterien finden Sie, welche sind wie wichtig?** 
+
+Das wichtigste Kriterium abgesehen von Availability ist Sicherheit. Falls mit einer SQL Injection  von schädlichem Code die gesamte USEr Datenbank ausgelesen werden kann, wirft ein äusserst schlechtes lich auf die Webseiten Betreiber. 
 
 Konstruieren Sie „typische Fälle“ und vergleichen Sie.
 
