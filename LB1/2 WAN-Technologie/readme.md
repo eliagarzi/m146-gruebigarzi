@@ -9,10 +9,10 @@ Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 ## **Aufgabe**
 
 Vergleichen Sie verschiedene WAN-Technologien:
-xDSL
-Fibre (FTTH)
-Cable
-Radiolink
+xDSL,
+Fibre (FTTH),
+Cable,
+Radiolink,
 Satellit
 
 Wie unterscheiden sich diese WAN-Technologien zueinander?
