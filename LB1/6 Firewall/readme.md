@@ -17,7 +17,7 @@ Vergleichen Sie für einen Internetanschluss folgende Firewall-Lösungen:
 Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie wichtig? 
 
 
-## **1 Vergleich**
+## **1. Vergleich**
 
 ### **Vergleich verschiedener Firewall-Lösungen**
 
@@ -62,39 +62,33 @@ Aus der Grafik von oben habe ich folgende Kriterien mitgenommen. Ich fand eine s
 - Antivirus
  
 
-## **2 Typische Fälle**
+## **2. Typische Fälle**
 Nun habe ich verschiedene "Typische Fälle" angeschaut und dafür eine mögliche Lösung angeschaut.
 
 ### **Heimnetzwerk**
 Im Heimnetzwerk braucht es ebenfalls eine Firewall. Hier ist die Firewall oftmals bereits im Router vom Provider verbaut. 
 
-Im Heimnetzwerk ist es vorallem wichtig, dass die Firewall möglichst autonom arbeiten kann und ohne Wartung auskommt, da sich ein Heimnetzrouter an alle Leute richten und somit auch an Leute, die keine IT-Kentnisse haben. 
+Autonom 
+- Im Heimnetzwerk ist es vorallem wichtig, dass die Firewall möglichst autonom arbeiten kann und ohne Wartung auskommt, da sich ein Heimnetzrouter an alle Leute richten und somit auch an Leute, die keine IT-Kentnisse haben. 
 
-Ebenfalls ist es wichtig, dass die Anschaffungskosten möglichst gerring sind, da die meisten nicht so viel für eine Firewall für Zuhause zahlen möchten. 
+Gerringe Anschaffungskosten 
+- Ebenfalls ist es wichtig, dass die Anschaffungskosten möglichst gerring sind, da die meisten nicht so viel für eine Firewall für Zuhause zahlen möchten. 
 
-Wichtig:
-- Autonom
+Einfache Bedienbarkeit
+- Eine einfache Bedienbarkeit über ein Webinterace ist wichtig, damit alle Personen die Firewall verwalten können. 
+
 
 ### **Firmennetzwerk**
 In einem Firmennetzwerk braucht man bereits deutlich mehr. Hier braucht es eine grosse Firewall mit grossem Durchsatz, guten Filterfunkionen und guter Zuverlässigkeit. 
 
+Grosser Durchsatz 
+- Da meist der gesamte Netzwerktraffic über diese Firewall läuft, braucht diese einen grossen Durchsatz. Für viele KMU reicht hier 1 Gbit locker aus. 
 
+Gute Filterfunktionen
+- Die Firewall soll Viren erkennen und stoppen können. Dies umfasst ebenfalls SSL-Verschlüsselten Traffic. Ein Proxyserver für die Filterung von Internetseiten ist auch zu empfehlen. 
 
-Gesuchte Firewall
-- Unkompliziert 
-- System das High Availability unterstützt. 
-
-### **Kleiner Standort ohne On-Premise Serverinfrastruktur**
-Hier kommt es darauf an, wo der Internet-Breakout im Firmennetzwerk ist. 
-
-
-### **Distaster Recovery Site**
-Oftmals ist für eine DR-Site gar keine Firewall nötig, da diese z.B. per direktem Leased-Line Glasfaserkabel oder Express Route angeschlossen ist. 
+Hochverfügbarkeit 
+- Hier braucht es ein Paar von zwei Firewalls, damit es immer ein Backup gibt. Die Firewall stellt den zentralen Knotenpunkt dar, über welchen der gesamte Internettraffic fliesst. 
 
 
 
-Gesuchte Firewall
-- Viele Rules
-- IDS 
-- IPS 
-- Durchsatz von bis zu 1 Gbit/s
