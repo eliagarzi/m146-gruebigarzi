@@ -15,7 +15,7 @@ Ausfall von 10 Stunden:
 Wenn ein Ausfall von 10h tolerier bar wäre weisst das darauf hin, dass die online Anwendung entweder am Wochenende noicht benutzt wird. Ein anderer grund könnet sein, es ist keine Bussines kritische Applikation und wird von niemandem so häufig genutzt. z.B. kleine Privater Mailserver
 
 Ausfall von 4 Stunden:
-Falls ein Ausfall von 4 Stunden im SLA als untolerierbar definiert wird, handelt es sich höchst wahrscheinlich um sehr Wichtige Services ndie dem Core Bussines angehören. Falls dieser Service 4 Stunden nicht erreichbar ist verletzt das nicht nur den SLA sondern bedeutet auch hohe Geldverluste. Gute Beispiele wären <br>
+Falls ein Ausfall von 4 Stunden im SLA als untolerierbar definiert wird, handelt es sich höchst wahrscheinlich um sehr Wichtige Services ndie dem Core Bussines angehören. Falls dieser Service 4 Stunden nicht erreichbar ist verletzt das nicht nur den SLA sondern bedeutet auch hohe Geldverluste. <br>Gute Beispiele wären 
 z.B. Google, Netflix, Server der SIX (Zahlungsverkehr)
 
 ## Geeigneter Provider:
