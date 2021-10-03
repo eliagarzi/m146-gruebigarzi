@@ -20,7 +20,7 @@ Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie
 Diskutieren Sie einige „typische Fälle“ und vergleichen Sie. 
 
 
-## **1 Vergleichs**
+## **1 Vergleich**
 
 ### **Vergleich verschiedener VPN-Lösungen**
 

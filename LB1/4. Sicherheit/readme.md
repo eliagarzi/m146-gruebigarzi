@@ -47,8 +47,7 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 - Diese Firewalls filtern HTTPS Traffic per Proxy
 
 **Redundanter Core-Switch**
-- Der Core-Switch ist sehr wichtig im Netzwerk
-Verfügbarkeit:
+- Der Core-Switch ist sehr wichtig im Netzwerk, da der gesamte Netzwerktraffic und alle VLANs über diesen Switch geroutet werden
 
 **Netzwerksegmentierung** 
 - Wir nutzen VLANs, welche auf dem Core-Switch geroutet werden können
@@ -101,5 +100,7 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 Verschlüsselung: 
 - Jeglicher Speicher ist verschlüsselt, 
 - Netzwerktraffic verschlüsselt (WPA, HTTPS, SFTP)
+- Authentifizierung durch Benutzername und Passwörter 
+- Authentifizierung durch Zwei-Faktor-Authentifzierung und Smart-Cards
 
 

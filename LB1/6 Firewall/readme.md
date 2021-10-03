@@ -16,6 +16,13 @@ Vergleichen Sie für einen Internetanschluss folgende Firewall-Lösungen:
 
 Welche Vergleichskriterien finden Sie, welche sind für welche Einsatzfälle wie wichtig? 
 
+
+## **1 Vergleich**
+
+### **Vergleich verschiedener Firewall-Lösungen**
+
+
+### **Kriterien**
 Ich finde sehr viele Kriterien, welche wichtig sind. Firewalls werden für die unterschiedlichsten Zwecke eingesetzt und somit gibt es auch für viele verschiedene Lösungen. 
 
 - Form
@@ -28,15 +35,16 @@ Ich finde sehr viele Kriterien, welche wichtig sind. Firewalls werden für die u
 - IPS-Durchsatz
 - SSL-Inspection Durchsatz
 
+
+## **2 Typische Fälle**
 Nun habe ich verschiedene "Typische Fälle" angeschaut und dafür eine mögliche Lösung angeschaut.
 
-**Heimnetzwerk**
+### **Heimnetzwerk**
 Gesuchte Firewall
 - Unkompliziert 
-- Durchsatz von bis zu 1 Gbit/s
 
 
-**Firmennetzwerk**
+### **Firmennetzwerk**
 Ein Firmennetzwerk bedeutet für mich 
 
 
@@ -44,14 +52,13 @@ Gesuchte Firewall
 - Unkompliziert 
 - Durchsatz von bis zu 1 Gbit/s
 
+### **Kleiner Bürostandort ohne On-Premise Serverinfrastruktur**
 
-**Verbindung mit dem Firmennetz von Zuhhause aus**
 
-**Kleiner Bürostandort ohne On-Premise Serverinfrastruktur**
 
-**Distaster Recovery Site**
+### **Distaster Recovery Site**
+Oftmals ist für eine DR-Site gar keine Firewall nötig, da diese z.B. per direktem Leased-Line Glasfaserkabel oder Express Route (Wie man es bei Azure nennt) angeschlossen ist. 
 
-Ein Rechenzentrum benötigt vor allem eines: Site-To-Site VPN. 
 
 
 Gesuchte Firewall
