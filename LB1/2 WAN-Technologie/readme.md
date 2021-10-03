@@ -20,8 +20,7 @@ Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnv
 
 Am Sinnvollstn wäre satelit da es auch am ausfallsichersten ist. Die technologie ist schnell und man hat nur am anfang anschafungskosten für die Satelietenschüssel. Danach nur noch das Internetabonoment. Der grosse Vorteil, es kann kein Kabel durch eine Baustelle ausversehen gekappt werden, oder durch andere Radio Signale gestört werxen.
 
-Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?
-
+**Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** <br>
 Ebenfalls würde ich hir Satelit empfehlen, da es sehr unwahrscheinlich ist das ein Sateliet ausfällt. Fals dies doch eintriott haben fasst alle provider mehr als nur 2 Sateliet.
 
 Welche Verbindung eignet sich auch für Backup-Leitungen?
