@@ -24,7 +24,7 @@ Am Sinnvollstn wäre satelit da es auch am ausfallsichersten ist. Die technologi
 Ebenfalls würde ich hir Satelit empfehlen, da es sehr unwahrscheinlich ist das ein Sateliet ausfällt. Fals dies doch eintriott haben fasst alle provider mehr als nur 2 Sateliet.
 
 **Welche Verbindung eignet sich auch für Backup-Leitungen?**<br>
-Als Backupleitung würde sich eine Kupfer oder Glasfaser (LWL) anbieten. Jedoch wäre LWL zu empfehlen da Kupferkabel eine MAximaleübertragungsrate von 100 Mbit/s haben.
+Als Backupleitung würde sich eine Kupfer oder Glasfaser (LWL) anbieten. Jedoch wäre LWL zu empfehlen da Kupferkabel eine maximale Übertragungsrate von 100 Mbit/s haben. LWL ist zwar teurer jedoch bringt eine Backupleitung nichts, wenn man nicht richitg arbeiten kann falls man auf diese zurückgreiffen muss
 
 - Kosten
 - Geschwindigkeit:
