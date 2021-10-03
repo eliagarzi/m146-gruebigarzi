@@ -28,4 +28,4 @@ Preislicher Gewinner ist iWay, davon abgesehen hatten Konkuenten nicht mal 1000 
 - Angebot 1000 Mbit/s
 - Kundenservice
 - Individuel
-- 1 Monat gratis
+- 1-Monat gratis
