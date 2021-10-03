@@ -7,7 +7,7 @@ Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 
 ## Welche Übertragungsrate wäre für diese Anwendungen geeignet?
-Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s. Wenn 90 Mitarbeiter im Unternehmen tätig sind heisst das man braucht mindestens 1000 Mbit/s
+Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s. Wenn 90 Mitarbeiter im Unternehmen tätig sind, heisst das man braucht mindestens 1000 Mbit/s.
 
 
 ## Welcher Verfügbarkeit müsste Ihre Anbindung ans Internet haben?
@@ -20,3 +20,12 @@ z.B. Google, Netflix, Server der SIX (Zahlungsverkehr)
 
 ## Geeigneter Provider:
 Um die gewährleistund der Anforderungen zu erfüllen ist nicht nur die Kostenfrage entscheidend sondern auch die Grösse des Providers, zu kleine Provider könnten die Anforderungen an Availability und Support garnicht erfüllen.
+
+Im vergleich stehen: UPC, Swisscom, Salt, iWay, Ornage, Yallo
+
+Preislicher Gewinner ist iWay, davon abgesehen hatten Konkuenten nicht mal 1000 Mbit/s im Sortiment was zur sofotigen Ausscheidung führte.
+-Preis
+-Angebot 1000 Mbit/s
+-Kundenservice
+-Individuel
+-1 Monat gratis
