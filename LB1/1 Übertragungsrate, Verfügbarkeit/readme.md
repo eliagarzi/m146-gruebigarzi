@@ -19,3 +19,4 @@ Falls ein Ausfall von 4 Stunden im SLA als untolerierbar definiert wird, handelt
 z.B. Google, Netflix, Server der SIX (Zahlungsverkehr)
 
 ## Geeigneter Provider:
+Um die gewährleistund der Anforderungen zu erfüllen ist nicht nur die Kostenfrage entscheidend sondern auch die Grösse des Providers, zu kleine Provider könnten die Anforderungen an Availability und Support garnicht erfüllen.
