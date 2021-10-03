@@ -23,7 +23,7 @@ Am Sinnvollstn wäre satelit da es auch am ausfallsichersten ist. Die technologi
 **Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** <br>
 Ebenfalls würde ich hir Satelit empfehlen, da es sehr unwahrscheinlich ist das ein Sateliet ausfällt. Fals dies doch eintriott haben fasst alle provider mehr als nur 2 Sateliet.
 
-**Welche Verbindung eignet sich auch für Backup-Leitungen?**
+**Welche Verbindung eignet sich auch für Backup-Leitungen?**<br>
 Als Backupleitung würde sich eine Kupfer oder Glasfaser (LWL) anbieten. Jedoch wäre LWL zu empfehlen da Kupferkabel eine MAximaleübertragungsrate von 100 Mbit/s haben.
 
 - Kosten
