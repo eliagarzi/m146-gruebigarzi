@@ -15,7 +15,7 @@ Cable,
 Radiolink,
 Satellit
 
-** Wie unterscheiden sich diese WAN-Technologien zueinander? **
+**Wie unterscheiden sich diese WAN-Technologien zueinander?**
 
 Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnvolle Empfehlung abgeben, wann welche Technologie für unsere Situation vorteilhaft wäre.
 
