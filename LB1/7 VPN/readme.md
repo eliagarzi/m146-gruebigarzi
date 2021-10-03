@@ -21,10 +21,33 @@ Diskutieren Sie einige „typische Fälle“ und vergleichen Sie.
 
 
 ## **1 Vergleichskriterien**
-- Kosten
-- Durchsatz
-- IPS-Durchsatz
-- Bauform
+- Form
+
+Welche Form hat der VPN-Server,Hardware-Appliance oder Software?
+
+- Kosten 
+
+Wie hoch sind die Kosten? 
+
+- Max. Durchsatz
+
+Wie hoch ist der VPN-Tunnel Durchsatz?
+
+- VPN-Typen 
+
+Welche Formen von VPN-Typen werden unterstützt? Site-To-Site, Client-To-Site
+
+- Max. Anzahl Peers
+
+Wie viele Peers (Anzahl Clients) können sich mit dem VPN verbinden?
+
+- VPN-Client
+
+Gibt es einen VPN-Client und wie einfach ist dieser zu bedienen?
+
+- Management
+
+Wie wird der VPN gemanaged? 
 
 
 ## **2 Typische Fälle**
