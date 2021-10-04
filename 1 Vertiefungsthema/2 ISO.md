@@ -4,6 +4,10 @@ Für unser Vertiefungsthema haben wir uns mit dem Thema Informationssicherheit a
 
 # **Inhalt**
 
+# **1. Was ist ISO 27000?**
+
+
+## **3. ISO 27001**
 
 # **Wieso ISO-Standards in der IT-Sicherheit**
 
@@ -13,15 +17,22 @@ Durch dieses Chaos wird es noch schwieriger, um Risiken abzuschätzen und Sicher
 
 **Die Lösung** ist es die Methoden und Vorgänge zu verinheitlichen und ein Framework für IT-Sicherheit zu schaffen. Genau dafür braucht man einen ISO Standard für IT-Sicherheit, denn ISO 27000 ist genau ein solches Framework.
 
-**Überblick der Vorteile**
+### **Welche Vorteile hat der ISO 27000 Standard?**
+**Zu den Vorteilen von oben gibt es noch weitere Vorteile, unteranderem:**
 
-- Compliance steigern 
-- Sicherheitslücken rasch erkennen
-- Datensicherheit erhöhen 
-- IT-Dokumentation 
-- Notfalldokumentation 
-- Systematisches Risikomanagement
-- ISO 27000 als Verkaufsargument
+**Compliance steigern**
+
+**Sicherheitslücken rasch erkennen**
+
+**Datensicherheit erhöhen**
+
+**IT-Dokumentation**
+
+**Notfalldokumentation**
+
+**Systematisches Risikomanagement**
+
+**ISO 27000 als Verkaufsargument**
 
 
 
@@ -36,26 +47,35 @@ Dabei besteht die Reihe sowohl aus rein Management-orientierten Standards wie Z.
 
 ## **Was ist Informationssicherheit?**
 
-Im Bezug zum ISO 27000 spricht man generell nicht von IT-Sicherheit, sondern von Informationssicherheit. Doch was heisst das überhaupt? 
+Im Bezug zum ISO 27000 spricht man generell nicht von IT-Sicherheit, sondern von Informationssicherheit. Doch was heisst das überhaupt? ISO 27000 definiert die Informationssicherheit unter drei Aspekten die erfüllt sein müssen. Dies umfasst: 
+- Vertraulichkeit 
+- Integrität 
+- Verfügbarkeit
+
+Dabei sind die Ziele der Informationssicherheit nicht nur auf IT-Spezifische Anwendungen konzentriert, sondern gehen vom gesamten Unternehmen aus. Dies Umfasst also beispielsweise auch Organisatorisches, Prozesse oder Zugangsberechtigungen. 
 
 
 ## **Generelle Schutzziele von ISO 27000**
-
 Die Ziele lassen sich in drei Kategorien einteilen:
 - Vertraulichkeit 
 - Integrität 
 - Verfügbarkeit
 
 ### Vertraulichkeit 
+Schutz vor Informationen vor unautorisierten Enitäten. Das heisst das der Zugang zu Informationen abgesichert sein muss. Die geschieht in der realen Welt durch Berechtigungen und User-Authentifizierung mit Schlüssel oder Passwörtern. Eine mögliche Verletzung dieses Schutzzieles könnten falsch vergeben Berechtigungen sein und ein Angreifer damit in der Lage wäre auf diese Informationen zuzugreifen. 
+
 ### Integrität 
+Die Integrität bezieht sich auf den Schutz vor Manipulation der Information. Daten müssen konsistent, richtig und vollständig gespeichert und aufbewahrt werden. Es war nicht möglich sein, dass Informationen verfälscht/manipuliert werden können. Ein möglicher Angriff wäre 
+
 ### Verfügbarkeit
+Für wen sind Informationen verfügbar. 
 
 
 
 ## **3. ISO 27001**
 
 **Das ISO 270001 umfasst folgende Themen:**
-- Anforderungen an ein ISMS
+- Anforderungen an ein ISMS (Information Security Management System)
 - Aufbau eines ISMS
 - Anforderungen an die Dokumentation
 - Verantwortung des Managements
@@ -64,22 +84,30 @@ Die Ziele lassen sich in drei Kategorien einteilen:
 - Generische Sicherheitsmaßnahmen ("Controls")
 
 
-## **4. ISO 27002**
+**4. ISO 27002**
 - Management der Informationssicherheit
 
-## **5. ISO 27003**
+**5. ISO 27003**
 - ISMS Implementierung
 
-## **6. ISO 27004**
+**6. ISO 27004**
 - Managementmethoden für Informationssicherheit
 
-## **7. ISO 27005**
+**7. ISO 27005**
 - Risikomanagement
 
-## **7. ISO 27007**
+# **3 Was ist ein ISMS?**
+Ein Information Security Management System ist ein System das Regeln, Methoden und Verfahren festlegt mit denen die Ziele der Informationssicherheit erreicht werden. Dabei umfasst ein ISMS sowohl technische wie auch nicht-technische Massnahmen. 
 
+Ein ISMS hat dabei das zentrale Ziel das Management der Informationssicherheit in einem Unternehmen zu zentralisieren und durch laufende Prozesse und Einführung neuer Prozesse die Ziele der Informationssicherheit zu erreichen. 
+
+Dabei geht das ISMS über die Grenzen eines IT-Departement hinaus und beziehen sich nicht nur auf die Informationssicherheit im digitalen Raum, sondern auch auf physischer Ebene. Als Beispiel Zugangsberechtigungen oder Klassifizierungen von Akten. 
+
+Ein ISMS bildet die Grundlage für eine systematisch aufgebaute Informationssicherheit in einem Unternehmen. 
 
 ## **Der Weg zum ISMS**
+
+
 
 
 **Quellen**
