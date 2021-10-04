@@ -3,13 +3,16 @@ Für unser Vertiefungsthema haben wir uns mit dem Thema Informationssicherheit a
 
 
 # **Inhalt**
+**1 Wieso ISO-Standards in der IT-Sicherheit**
 
-# **1. Was ist ISO 27000?**
+**1.1 Welche Vorteile hat der ISO 27000 Standard?**
+
+**2. Was ist ISO 27000?**
+
+**3 Was ist ein ISMS?**
 
 
-## **3. ISO 27001**
-
-# **Wieso ISO-Standards in der IT-Sicherheit**
+# **1 Wieso ISO-Standards in der IT-Sicherheit**
 
 IT-Sicherheit ist kompliziert und wird schnell chaotisch. Man implementiert 2-Faktor-Authentifizierung auf Office-365, öffnet hier einen Port und installiert dort eine Antivirus-Software. Den Überblick zu behalten ist schwierig. 
 
@@ -17,27 +20,18 @@ Durch dieses Chaos wird es noch schwieriger, um Risiken abzuschätzen und Sicher
 
 **Die Lösung** ist es die Methoden und Vorgänge zu verinheitlichen und ein Framework für IT-Sicherheit zu schaffen. Genau dafür braucht man einen ISO Standard für IT-Sicherheit, denn ISO 27000 ist genau ein solches Framework.
 
-### **Welche Vorteile hat der ISO 27000 Standard?**
+## **Welche Vorteile hat der ISO 27000 Standard?**
 **Zu den Vorteilen von oben gibt es noch weitere Vorteile, unteranderem:**
 
-**Compliance steigern**
+- Compliance steigern
+- Sicherheitslücken rasch erkennen
+- Datensicherheit erhöhen
+- IT-Dokumentation
+- Notfalldokumentation
+- Systematisches Risikomanagement
+- ISO 27000 als Verkaufsargument
 
-**Sicherheitslücken rasch erkennen**
-
-**Datensicherheit erhöhen**
-
-**IT-Dokumentation**
-
-**Notfalldokumentation**
-
-**Systematisches Risikomanagement**
-
-**ISO 27000 als Verkaufsargument**
-
-
-
-
-# **1. Was ist ISO 27000?**
+# **2. Was ist ISO 27000?**
 
 Die ISO 27000 Reihe ist eine Reihe von Standards im Bereich der Informationssicherheit, welche laufend erweitert werden. Diese Standards werden dabei von der International Organization for Standardization (ISO) und der International Electrotechnical Commission (IEC) herausgegeben. 
 
@@ -61,18 +55,23 @@ Die Ziele lassen sich in drei Kategorien einteilen:
 - Integrität 
 - Verfügbarkeit
 
-### Vertraulichkeit 
+### **Vertraulichkeit**
 Schutz vor Informationen vor unautorisierten Enitäten. Das heisst das der Zugang zu Informationen abgesichert sein muss. Die geschieht in der realen Welt durch Berechtigungen und User-Authentifizierung mit Schlüssel oder Passwörtern. Eine mögliche Verletzung dieses Schutzzieles könnten falsch vergeben Berechtigungen sein und ein Angreifer damit in der Lage wäre auf diese Informationen zuzugreifen. 
 
-### Integrität 
-Die Integrität bezieht sich auf den Schutz vor Manipulation der Information. Daten müssen konsistent, richtig und vollständig gespeichert und aufbewahrt werden. Es war nicht möglich sein, dass Informationen verfälscht/manipuliert werden können. Ein möglicher Angriff wäre 
+### **Integrität**
+Die Integrität bezieht sich auf den Schutz vor Manipulation der Information. Daten müssen konsistent, richtig und vollständig gespeichert und aufbewahrt werden. Es war nicht möglich sein, dass Informationen verfälscht/manipuliert werden können. Ein möglicher Angriff wäre eine Netzwerk-Spoofing Attacke, bei der Traffic gezielt manipuliert wird. 
 
-### Verfügbarkeit
-Für wen sind Informationen verfügbar. 
+### **Verfügbarkeit**
+Das Ziel der Verfügbarkeit umfasst einserseits die Frage für wen die Informationen verfügbar sein, anderseits dass diese Informationen jederzeit verfügbar sind. Die Verfügbarkeit einer Ressource kann z.B. durch eine DDOS Attacke oder einen Ausfall eines IT-Systemes gefährdet sein. 
+
+**Weitere Schutzziele sind**
+- Authentizität
+- Zurechenbarkeit
+- Verbindlichkeit
+- Verlässlichkeit
 
 
-
-## **3. ISO 27001**
+## **ISO-Zertifikate im Überblick**
 
 **Das ISO 270001 umfasst folgende Themen:**
 - Anforderungen an ein ISMS (Information Security Management System)
@@ -84,16 +83,16 @@ Für wen sind Informationen verfügbar.
 - Generische Sicherheitsmaßnahmen ("Controls")
 
 
-**4. ISO 27002**
+**ISO 27002**
 - Management der Informationssicherheit
 
-**5. ISO 27003**
+**ISO 27003**
 - ISMS Implementierung
 
-**6. ISO 27004**
+**ISO 27004**
 - Managementmethoden für Informationssicherheit
 
-**7. ISO 27005**
+**ISO 27005**
 - Risikomanagement
 
 # **3 Was ist ein ISMS?**
@@ -104,10 +103,6 @@ Ein ISMS hat dabei das zentrale Ziel das Management der Informationssicherheit i
 Dabei geht das ISMS über die Grenzen eines IT-Departement hinaus und beziehen sich nicht nur auf die Informationssicherheit im digitalen Raum, sondern auch auf physischer Ebene. Als Beispiel Zugangsberechtigungen oder Klassifizierungen von Akten. 
 
 Ein ISMS bildet die Grundlage für eine systematisch aufgebaute Informationssicherheit in einem Unternehmen. 
-
-## **Der Weg zum ISMS**
-
-
 
 
 **Quellen**
