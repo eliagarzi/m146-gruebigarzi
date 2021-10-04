@@ -11,19 +11,19 @@
 Im Bezug auf die Anbindung eines Unternehmens an das Internet haben wir verschiedene Leitfragen bearbeitet. 
 
 
-### **1. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md" target="_blank">Übertragungsrate, Verfügbarkeit</a>**
+### **1. <a href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/1%20%C3%9Cbertragungsrate%2C%20Verf%C3%BCgbarkeit/readme.md" target="_blank">Übertragungsrate, Verfügbarkeit</a>**
 
-### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/2%20WAN-Technologie/readme.md">WAN-Technologie</a>**
+### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/2%20WAN-Technologie/readme.md">WAN-Technologie</a>**
 
-### **3. <a  target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/3%20Internetservices/readme.md">Internetservices</a>**
+### **3. <a  target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/3%20Internetservices/readme.md">Internetservices</a>**
 
-### **4. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/4.%20Sicherheit/readme.md">Sicherheit</a>**
+### **4. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/4.%20Sicherheit/readme.md">Sicherheit</a>**
 
-### **5. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/5%20Wartung%20-%20%C3%9Cberwachung/readme.md">Wartung / Überwachung</a>**
+### **5. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/5%20Wartung%20-%20%C3%9Cberwachung/readme.md">Wartung / Überwachung</a>**
 
-### **6. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/6%20Firewall/readme.md">Firewall</a>**
+### **6. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/6%20Firewall/readme.md">Firewall</a>**
 
-### **7. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/LB1/7%20VPN/readme.md">VPN</a>**
+### **7. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/2 Leitfragen/7%20VPN/readme.md">VPN</a>**
 
 
 
@@ -31,11 +31,11 @@ Im Bezug auf die Anbindung eines Unternehmens an das Internet haben wir verschie
 
 Für unser Vertiefungsthema haben wir eine Virtuelle Maschine Exploitet und uns Gedanken darüber gemacht, wie sich ein Unternehmen im WAN schützen kann. 
 
-### **1. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Einf%C3%BChrung.md">Exploiten Einführung</a>**
+### **1. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/1 Vertiefungsthema/Einf%C3%BChrung.md">Exploiten Einführung</a>**
 
-### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/Exploit.md">Eigene Exploits machen</a>**
+### **2. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/1 Vertiefungsthema/Exploit.md">Eigene Exploits machen</a>**
 
-### **3. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/Exploiten/ISO.md">ISO-Standards</a>**
+### **3. <a target="_blank" href="https://github.com/eliagarzi/m146-gruebigarzi/blob/main/1 Vertiefungsthema/ISO.md">ISO-Standards</a>**
 
 
 
