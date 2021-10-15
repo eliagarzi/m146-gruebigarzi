@@ -94,7 +94,7 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 - Das Virtualisierungscluster nutzt kein zentrales SAN, sondern speichert die VMs lokal
 
 **Backup**
-- Wir n
+- Es werden regelmässig full- und incremental Backups gemacht
 
 ## **3 Weitere technische Massnahmen**
 Verschlüsselung: 
