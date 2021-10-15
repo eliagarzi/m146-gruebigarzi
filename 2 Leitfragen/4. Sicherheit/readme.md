@@ -93,12 +93,12 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 - Live-Migration jederzeit möglich
 - Das Virtualisierungscluster nutzt kein zentrales SAN, sondern speichert die VMs lokal
 
-**Backup Server**
-- Der Backupserver ist ein physischer Server auf Basis von Windows Server und nutzt Veeam Backup & Replication um die gesamt vSphere Umgebung zu Backupen
+**Backup**
+- Wir n
 
 ## **3 Weitere technische Massnahmen**
 Verschlüsselung: 
-- Jeglicher Speicher ist verschlüsselt, 
+- Jeglicher Speicher ist verschlüsselt 
 - Netzwerktraffic verschlüsselt (WPA, HTTPS, SFTP)
 - Authentifizierung durch Benutzername und Passwörter 
 - Authentifizierung durch Zwei-Faktor-Authentifzierung und Smart-Cards
