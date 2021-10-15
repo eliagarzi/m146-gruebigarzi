@@ -89,8 +89,8 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 - Der SQL-Server ermöglicht zudem, dass 
 
 **Virtualisierungscluster**
-- Als Hypervisor setzen wir auf ESXi. Hier nutzen wir zwei physische Server, damit die Verfügbarkeit sehr hoch gehalten werden kann
-- Durch vMotion ist eine Live-Migration jederzeit möglich
+- Hier nutzen wir zwei physische Server, damit die Verfügbarkeit sehr hoch gehalten werden kann
+- Live-Migration jederzeit möglich
 - Das Virtualisierungscluster nutzt kein zentrales SAN, sondern speichert die VMs lokal
 
 **Backup Server**
