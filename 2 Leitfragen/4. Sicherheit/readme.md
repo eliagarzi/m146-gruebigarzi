@@ -27,7 +27,10 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 
 # **2 Nicht technische Massnahmen**
 
-# **3 Einführung eines ISMS** 
+## **1 Einführung eines ISMS** 
+
+- Regelmässige Sicherheitsaudits
+
 
 
 
