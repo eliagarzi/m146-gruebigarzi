@@ -16,25 +16,36 @@ Bitte stellen Sie der Klasse ein sinnvolles Sicherheitskonzept für diesen Anwen
 Beachten Sie, dass es technische und nicht technische Massnahmen geben kann.
 
 
-
-# **1 Ein ISO 27000 Konzept** 
+# **1 Anforderungen nach ISO 27000** 
 ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardisieren. 
 
 **Grundlegende Anforderungen**
+
+Anforderungen 
+
+- Informationssicherheit 
+- Physische Sicherheit von Dokumenten/Zugängen etc. 
+- Digitale Sicherheit von Informationen
+
+Bei ISO 27000 gibt es drei generelle Ziele zur Informationssicherheit. 
+Schutzziele:
+
 - Verfügbarkeit 
 - Integrität 
 - Authentizität
 
+
 # **2 Nicht technische Massnahmen**
 
 ## **1 Einführung eines ISMS** 
-
 - Regelmässige Sicherheitsaudits
 
 
 
 
 # **3 Technische Massnahmen** 
+In diesem Teil haben wir uns technische Massnahmen zur Sicherheit überlegt. 
+
 
 ## **Übersicht über die technischen Massnahmen** 
 - Firewall mit Proxyfunktion 
@@ -46,8 +57,8 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 ## **1 Aufbau des Netzwerkes**
 
 **Redundante Firewall mit Proxy Funktion**
-- Wir nutzen pro Internetanschluss eine Firewall 
 - Diese Firewalls filtern HTTPS Traffic per Proxy
+- Firrewalls mit SPI und DPI
 
 **Redundanter Core-Switch**
 - Der Core-Switch ist sehr wichtig im Netzwerk, da der gesamte Netzwerktraffic und alle VLANs über diesen Switch geroutet werden
@@ -58,7 +69,7 @@ ISO 27000 hilft dabei ein Framework für Sicherheit zu schaffen und zu standardi
 - Gleichzeitig kann aber z.B. VOIP oder Internet Traffic vom Webserver priorisiert werden
 Verfügbarkeit: Webservertraffic und VOIP haben priorität
 Authentiziät: Traffic kommt nur dorthin, wo er auch hinsoll
-Integrität: Es ist schwieriger den Netzwerktraffic zu manipulieren 
+Integrität: Es ist schwieriger den Netzw erktraffic zu manipulieren 
 
 **Trennung des WLAN in Guest und Internal**
 - Das Guest läuft auf einem anderen VLAN 
@@ -89,7 +100,8 @@ Bei den Servern lohnt es sich zu überlegen, wie man diese Infrastruktur am best
 
 **SQL Server für Datenbanken** 
 - Um einfache Backups und Restores der Datenbanken vom Exchange und Webserver zu machen, setzen wir auf einen dedizierten Datenbankserver
-- Der SQL-Server ermöglicht zudem, dass 
+- Der SQL-Server ermöglicht zudem, dass die Sicherheit der Datenbanken zentral gemanged werden kann 
+- 
 
 **Virtualisierungscluster**
 - Hier nutzen wir zwei physische Server, damit die Verfügbarkeit sehr hoch gehalten werden kann
