@@ -1,23 +1,8 @@
-# Leitfragen zum Thema Wartung und Überwachung
 
-**Ausgangslage**
-
-Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate von 50 Mbit/s im Download und 5 Mbit/s im Upload mit ADSL. Die Firma produziert Kaffeemaschinen in einer städtischen Gegend in der Schweiz. Das Marketing benutzt moderne Webapplikationen mit viel Multimediaanwendungen und ein Shop für Endkunden ist ebenfalls vorhanden. Alle Mitarbeiten-den benutzen Mail und Browserapplikationen. Die Firma hat 90 Internetnutzer.
-
-Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
-
-# **Aufgabe**
-
-Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen? 
-Beschreiben Sie konkret, mit welchen Tools Sie das machen würden. Es wird erwartet, dass Sie mindestens 5 geeignete Tools finden.
 
 
 - Scom
-
 - Zabbix
-
-Wie würden Sie die Wartung des Zuganges sicherstellen?
-Beschreiben Sie einen Wartungsprozess und machen Sie der Firma eine Empfehlung. Ihre Empfehlung muss auf Grund einer Evaluation mit Kriterien erfolgen.
 
 Mithilve eines Lückenlosenvertrags der den Provider dazu verpflichted die Systeme immer auf dem neusten Stand zu hallten und innerhalb einer bestimment zeit zu reagieren falls das System Ausfällt. 
 
@@ -79,11 +64,11 @@ Ein Proxy-Server ist ein Vermittler innerhalb eines Netzwerks. Er arbeitet zwisc
 
  
 
-Jede Firma, ob gross oder klein, sollte eine Firewall haben. Diese braucht man, um sich von attacken von ausserhalb zu schützen,
+Qradar ist ein mächtiges Tool um Logdateien aus dem ganzen system zu sammeln
 
  
 
-Die Firewall ist simpel gesagt wie ein Türsteher, welcher entscheidet wer ins System hereinkommen darf und wer nicht. Man kann Manuell Einstellen, welche Zugriffe erlaubt werden sollten. Dies macht man mit sogenannten Regeln. 
+So kann man alle logs auslesen um Diagnosen zu erstllen ud immer up to date zu sein was im System vorgeht.
 
  
 
