@@ -6,7 +6,10 @@
 # Übertragung
 <strong>Welche Übertragungsrate wäre für diese Anwendungen geeignet?</strong>
  
+ 
 <p>Wir würden der Firma empfehlen sich an ein Glasfasernetz anzuschliessen. Da die Firma in einer städtischen Umgebung steht sollte dies kein Problem sein, da es dort höchstwahrscheinlich die Möglichkeit gibt, sich an ein Glasfasernetz anzuschliessen. Glasfaser bietet den sehr grossen Vorteil sehr hoher Übertragungsraten, womit eine schnellere Internetverbindung möglich ist. Da das Unternehmen bereits sehr viele Internetnutzer hat und mit viel Multimediaanwendungen und Webapplikationen arbeitet, wo mit sehr grossen Datenmengen gearbeitet wird, wäre ein Glasfasernetz somit sehr sinnvoll. Im Vergleich zu DSL oder Kabel hat man mit Glasfaser eine vielfach höhere Down und Upload Rate. Weil das Glasfaser Netz (in der Schweiz) bis zu 10 Gbit/s an Datenübertragung erlaubt, gilt dies unter Experten als sehr zukunftssicher. Wie hoch die Übertragungsrate sein soll, hängt vom Fall ab. </p>
+
+Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s. Wenn 90 Mitarbeiter im Unternehmen tätig sind, heisst das man braucht mindestens 1000 Mbit/s.
  
 <strong>Fall 1: Die Server stehen beim Provider</strong>
  
@@ -23,9 +26,6 @@
 Ein Unternehmen hat einen veralteten Internetzugang mit einer Übertragungsrate von 50 Mbit/s im Download und 5 Mbit/s im Upload mit ADSL. Die Firma produziert Kaffeemaschinen in einer städtischen Gegend in der Schweiz. Das Marketing benutzt moderne Webapplikationen mit viel Multimediaanwendungen und ein Shop für Endkunden ist ebenfalls vorhanden. Alle Mitarbeiten-den benutzen Mail und Browserapplikationen. Die Firma hat 90 Internetnutzer.
 
 Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
-
-## Welche Übertragungsrate wäre für diese Anwendungen geeignet?
-Für E-Mail wird eine Übvertragungsrate von 1-5 Mbit/s benötigt. Beim Videostreaming/Surfen und Webseiten benutzen wird eine Übertragungsrate von 6-15 Mbit/s benötigt. Geeignet für WebApps sind etwa10 15 Mbit/s. Wenn 90 Mitarbeiter im Unternehmen tätig sind, heisst das man braucht mindestens 1000 Mbit/s.
 
 
 ## Welcher Verfügbarkeit müsste Ihre Anbindung ans Internet haben?
