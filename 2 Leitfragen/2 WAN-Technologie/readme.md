@@ -23,10 +23,18 @@ Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnv
 - Verbindungsart (Kabel/Wireless)
 - Support
 
-Am Sinnvollstn wäre satelit da es auch am ausfallsichersten ist. Die technologie ist schnell und man hat nur am anfang anschafungskosten für die Satelietenschüssel. Danach nur noch das Internetabonoment. Der grosse Vorteil, es kann kein Kabel durch eine Baustelle ausversehen gekappt werden, oder durch andere Radio Signale gestört werxen.
 
-**Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** <br>
-Ebenfalls würde ich hir Satelit empfehlen, da es sehr unwahrscheinlich ist das ein Sateliet ausfällt. Fals dies doch eintriott haben fasst alle provider mehr als nur 2 Sateliet.
+**SD-WAN**
+Software definiertes WAN. 
+Dieses bietet folgende Vorteile:
+- Ausfallsicherheit
+- Quality of Service (QoS)
+- Security
+- Deployment Optionen
+- Online Traffic Engineering
+
+**Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** 
+SD-WAN bessert die schwachstellen des herkömlichen WAN aus und behebt diese, z.B. kostspielige Bandbreitnutzung oder Die Abhängigkeit vom Rechenzentrum. In einer cloudorientierten oder hybriden Welt greift diese Methode nicht mehr. Die Entwicklung einer Cloud-basierten IT-Infrastruktur und neue Geschäftsmodelle erhöhen die Nachfrage nach einem neuen Netzwerkmodell. Im Gegensatz zum klassischen WAN ermöglicht SD-WAN die Nutzung solcher Cloud-basierter oder hybrider IT-Infrastrukturen und kann zudem die Betriebskosten senken und die IT-Sicherheit verbessern. Eine hochverfügbare SD-WAN-Lösung sorgt für Zuverlässigkeit und effiziente Prozesse. Die SD-WAN-Funktionalität ist nicht auf einen einzelnen Standort beschränkt, sondern kann effizient in allen Zweigstellen und Remote-Standorten bereitgestellt werden.
 
 **Welche Verbindung eignet sich auch für Backup-Leitungen?**<br>
-Als Backupleitung würde sich eine Kupfer oder Glasfaser (LWL) anbieten. Jedoch wäre LWL zu empfehlen da Kupferkabel eine maximale Übertragungsrate von 100 Mbit/s haben. LWL ist zwar teurer jedoch bringt eine Backupleitung nichts, wenn man nicht richitg arbeiten kann falls man auf diese zurückgreiffen muss
+VDSL ist eine gute Backup Lösung da diese Leitung sehr schnell ist und eine hohe Bandbreite hat. So können viele User intensif die Leitng beanspruchen ohne das es Probleme giebt. ADSL wäre ebenfalls möglich jedoch kann da die Gefahr bestehen das die Bandbreite nicht ausreicht. Deshalb würde ich auf VDSL zurückgreifen, unm im Ernstfall schnell und effizient arbeiten zu können. 
