@@ -26,7 +26,7 @@ Sie sollen mindestens 5 Unterscheidungsmerkmale finden und der Klasse eine sinnv
 
 **SD-WAN**
 Software definiertes WAN. 
-Es bietet:
+Dieses bietet folgende Vorteile:
 - Ausfallsicherheit
 - Quality of Service (QoS)
 - Security
