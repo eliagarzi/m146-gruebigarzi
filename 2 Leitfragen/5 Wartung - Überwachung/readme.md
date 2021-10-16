@@ -11,9 +11,7 @@ Eine Firewall ist nicht vorhanden und die Server stehen alle beim Provider.
 Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen? 
 Beschreiben Sie konkret, mit welchen Tools Sie das machen würden. Es wird erwartet, dass Sie mindestens 5 geeignete Tools finden.
 
-- Proxy
-- PRTG
-- Splunk
+
 - Scom
 - Qradar
 - Zabbix
@@ -26,7 +24,7 @@ Mithilve eines Lückenlosenvertrags der den Provider dazu verpflichted die Syste
 Vorbestimmte Maintanance Windows, in dnen der Service nicht zur verfügung steht, da dort alles aktualisierungen vorgenommen werden. So kann man swicherstellen das der Change glatt läuft und keine Vulnerbility mit der Zeit entstehen dioe dann exploited werden können.
 
 
-<h1>Überwachung und Wartung</h1>
+# Leitfragen zum Thema Wartung und Überwachung
 
  
 
