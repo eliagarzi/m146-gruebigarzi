@@ -33,10 +33,8 @@ Dieses bietet folgende Vorteile:
 - Deployment Optionen
 - Online Traffic Engineering
 
+**Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** 
 SD-WAN bessert die schwachstellen des herkömlichen WAN aus und behebt diese, z.B. kostspielige Bandbreitnutzung oder Die Abhängigkeit vom Rechenzentrum. In einer cloudorientierten oder hybriden Welt greift diese Methode nicht mehr. Die Entwicklung einer Cloud-basierten IT-Infrastruktur und neue Geschäftsmodelle erhöhen die Nachfrage nach einem neuen Netzwerkmodell. Im Gegensatz zum klassischen WAN ermöglicht SD-WAN die Nutzung solcher Cloud-basierter oder hybrider IT-Infrastrukturen und kann zudem die Betriebskosten senken und die IT-Sicherheit verbessern. Eine hochverfügbare SD-WAN-Lösung sorgt für Zuverlässigkeit und effiziente Prozesse. Die SD-WAN-Funktionalität ist nicht auf einen einzelnen Standort beschränkt, sondern kann effizient in allen Zweigstellen und Remote-Standorten bereitgestellt werden.
-
-**Welche Technologie bietet die sicherste Verbindung punkto Ausfallsicherheit?** <br>
-Ebenfalls würde ich hir Satelit empfehlen, da es sehr unwahrscheinlich ist das ein Sateliet ausfällt. Fals dies doch eintriott haben fasst alle provider mehr als nur 2 Sateliet.
 
 **Welche Verbindung eignet sich auch für Backup-Leitungen?**<br>
 Als Backupleitung würde sich eine Kupfer oder Glasfaser (LWL) anbieten. Jedoch wäre LWL zu empfehlen da Kupferkabel eine maximale Übertragungsrate von 10'0000 Mbit/s haben. LWL ist zwar teurer jedoch bringt eine Backupleitung nichts, wenn man nicht richitg arbeiten kann falls man auf diese zurückgreiffen muss
