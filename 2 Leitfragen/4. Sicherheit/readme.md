@@ -37,13 +37,20 @@ Schutzziele:
 
 # **2 Nicht technische Massnahmen**
 
-## **1 Einführung eines ISMS** 
+**Einführung eines ISMS** 
 - Regelmässige Sicherheitsaudits
+- IT Systemdokumentation aufbauen 
+- 
+
+**Physische Zugriffsbeschränkung**
+- Geräte im Rack sind nur mit einem Schlüssel erreichbar 
+- Serverräume sind abgesichert mit Schlüssel/Batch. 
+
+**Physische Redundanz**
+- 
 
 
-
-
-# **3 Technische Massnahmen** 
+# **3 Technische Massnahmen**  
 In diesem Teil haben wir uns technische Massnahmen zur Sicherheit überlegt. 
 
 
