@@ -40,15 +40,24 @@ Schutzziele:
 **Einführung eines ISMS** 
 - Regelmässige Sicherheitsaudits
 - IT Systemdokumentation aufbauen 
-- 
+- Schulung Personal 
+- Klassifizierung von Informationen 
+ 
+
+**Schulung des Personals**
+- Personal wird darauf geschult Phising Attacken zu erkennen
 
 **Physische Zugriffsbeschränkung**
 - Geräte im Rack sind nur mit einem Schlüssel erreichbar 
 - Serverräume sind abgesichert mit Schlüssel/Batch. 
 
-**Physische Redundanz**
-- 
+**Alarm- und Löschanlage**
+- Eine Alarmanlage sichert den Zugang vor unbefugten oder gewaltsamen Eindringen 
+- Feuermelder erkennt Rauch und löst eine Löschanlage aus
 
+**Stromsicherheit**
+- Es gibt zwei getrennte Stromnetze 
+- Eine USV sichert die Infrastruktur vor einem Stromausfall
 
 # **3 Technische Massnahmen**  
 In diesem Teil haben wir uns technische Massnahmen zur Sicherheit überlegt. 
