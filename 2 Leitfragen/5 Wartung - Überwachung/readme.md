@@ -13,7 +13,7 @@ Beschreiben Sie konkret, mit welchen Tools Sie das machen würden. Es wird erwar
 
 
 - Scom
-- Qradar
+
 - Zabbix
 
 Wie würden Sie die Wartung des Zuganges sicherstellen?
@@ -41,7 +41,7 @@ Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen
 
  
 
-[Firewall](#Firewall)
+[Qradar](#Qradar)
 
  
 
@@ -75,7 +75,7 @@ Ein Proxy-Server ist ein Vermittler innerhalb eines Netzwerks. Er arbeitet zwisc
  
 
 ---
-<h3>Firewall</h3>
+<h3>Qradar</h3>
 
  
 
